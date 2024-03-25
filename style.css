@@ -8,6 +8,7 @@ body {
     padding: 5px;
     min-width: 600px;
     min-height: 315px;
+    max-width: 1350px;
 }
 
 .left-align {
