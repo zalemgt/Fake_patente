@@ -1,0 +1,63 @@
+body {
+    font-family: "Segoe UI Variable", sans-serif;
+    font-size: 15px;
+    margin: 0;
+  }
+
+.contenedor{
+    background-color: #F3E9C0;
+    padding: 5px;
+    min-width: 600px;
+    min-height: 315px;
+    max-width: 1320px;
+    margin-left: 10px;
+
+}
+
+.left-align {
+  text-align: left;
+}
+
+
+.expand-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 8px; /* Ajusta el valor según el espacio deseado */
+}
+
+.icono{
+  width: 100px;
+  height: 20px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.cabe {
+  min-width: 600px;
+  height: 50px;
+  padding: 0%;
+  background-color: #222222;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0; /* Asegura que la cabecera ocupe todo el ancho */
+  z-index: 1000;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  margin-left: 10px;
+}
+
+h2{
+  margin-left: 10px;
+  margin-top: 100px;
+}
+.contenedor-2{
+  padding: 5px;
+  min-width: 600px;
+  min-height: 50px;
+  max-width: 1350px;
+  font-size: 13px;
+}
